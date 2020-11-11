@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/h6+P51IoXPxyyftpxlygqdw0e4+6Ejlcd3Yi6Z0Dkw1jXEDg+Hd7xTZ+lZhxm2D+nrZ7SYxHqLWR3D8FeSsA==",
+  "success": true,
+  "projectFilePath": "D:\\3  - Estudos\\MediatorPattern\\MediatRSample\\MediatRSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
